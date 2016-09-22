@@ -4,8 +4,9 @@ This is just a demo/test of https://github.com/fleveque/iframe_headers plug pack
 
 ## Installation
 
-  mix deps.get
-  iex -S mix
+  `mix deps.get`
+  
+  `iex -S mix`
 
 And check the headers on localhost:4000  
 
