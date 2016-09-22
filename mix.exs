@@ -32,7 +32,6 @@ defmodule IframeHeadersDemo.Mixfile do
   defp deps do
     [{:cowboy, "~> 1.0"},
      {:plug, "~> 1.2"},
-     {:iframe_headers, path: "../iframe_headers"}]
-    #  {:iframe_headers, "~> 0.1.0"}]
+     {:iframe_headers, "~> 0.1.0"}]
   end
 end
