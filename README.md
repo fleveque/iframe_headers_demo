@@ -11,4 +11,4 @@ And check the headers on localhost:4000
 
 ## Thanks
 
-Based on [Elixir: A simple server with Plug](hhttp://blog.simonstrom.xyz/elixir-a-simple-server-with-plug/) by Simon Ström.
+Based on [Elixir: A simple server with Plug](http://blog.simonstrom.xyz/elixir-a-simple-server-with-plug/) by Simon Ström.
